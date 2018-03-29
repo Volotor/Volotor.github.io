@@ -1,0 +1,57 @@
+#background{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #F7F3E3;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+}
+
+#parchment{
+  justify-content: center;
+  margin-left: 10%;
+  width: 75%;
+  height: 90%;
+  align-self: center;
+}
+
+#head{
+  position: relative;
+  margin-top: 1%;
+
+
+}
+
+#content{
+  margin-left: 1%;
+}
+#profile{
+
+}
+#skills{
+
+}
+#education{
+
+}
+#employment{
+
+}
+#interests{
+
+}
+
+#expander{
+  width: 100%
+}
+
+.border{
+  border:1px solid #B3B6B7!important
+}
+.bar{
+  color:#FFF!important;
+  background-color:#B3B6B7!important
+}
